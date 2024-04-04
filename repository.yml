@@ -1,0 +1,4 @@
+# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
+name: stuchlyf's Home Assistant Addons
+url: "https://github.com/stuchlyf/hassio-addon-jpeg-to-mjpeg"
+maintainer: Florian Stuchly <stuchlyf@stuchlyf.dev>
